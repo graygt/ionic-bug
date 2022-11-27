@@ -13,3 +13,6 @@ How to repeat bug:
 5) On active Tab1 click Back button. Now we're on main page of Tab1
 6) Click to Tab2
 7) On active Tab2 click Back button. Here is error! Nothing has happened!
+
+Video to reproduce:
+https://github.com/graygt/ionic-bug/blob/master/video.mov?raw=true
