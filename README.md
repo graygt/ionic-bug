@@ -15,4 +15,6 @@ How to repeat bug:
 7) On active Tab2 click Back button. Here is error! Nothing has happened!
 
 Video to reproduce:
-https://github.com/graygt/ionic-bug/blob/master/video.mov?raw=true
+
+https://user-images.githubusercontent.com/107045936/204140364-7a7c6980-0149-4602-8224-e6400256e1d7.mov
+
